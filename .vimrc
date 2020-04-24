@@ -10,7 +10,7 @@ syntax enable
 " Automatically indent
 set smartindent
 
-" ????
+" Show file stats
 set ruler
 
 " Status line
