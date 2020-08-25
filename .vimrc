@@ -18,6 +18,8 @@ set laststatus=2
 set number
 
 " Tabs converted to 4 spaces
+" When creating Makefiles you need tabs, so comment 'set expandtab'
+
 set shiftwidth=4
 set tabstop=4
 set expandtab
