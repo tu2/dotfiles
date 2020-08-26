@@ -1,6 +1,6 @@
 # configfiles
 
-My simple config files
+Simple config files
 
 * **Sources**
     * .tmux.conf [Tmux](https://tmux.github.io/)
