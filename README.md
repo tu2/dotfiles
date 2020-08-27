@@ -1,4 +1,4 @@
-# configfiles
+# Configfiles
 
 Simple config files
 
