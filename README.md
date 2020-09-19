@@ -1,4 +1,4 @@
-# :mask: Configfiles :mask:
+# :mask: Configfiles
 
 Simple config files :mask:
 
