@@ -1,6 +1,6 @@
 # Configfiles
 
-Simple config files :mask:
+Simple config files
 
 * **Sources**
     * .tmux.conf [Tmux](https://tmux.github.io/)
