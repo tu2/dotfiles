@@ -1,6 +1,6 @@
 # Configfiles
 
-Simple config files.
+:smile: Simple config files.
 
 * **Sources**
 
