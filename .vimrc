@@ -1,4 +1,4 @@
-" make use of the latest updates
+" @2021
 " Use vim setings rather then vi
 set nocompatible
 
