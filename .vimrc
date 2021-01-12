@@ -1,4 +1,4 @@
-
+" make use of the latest updates
 " Use vim setings rather then vi
 set nocompatible
 
