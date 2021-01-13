@@ -35,5 +35,3 @@ if has("gui_running")
 else
     colorscheme darkblue
 endif 
-
-"END
