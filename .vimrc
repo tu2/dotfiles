@@ -27,7 +27,6 @@ set smarttab
 " Use UTF-8
 set encoding=utf-8
 
-
 " Set colour scheme
 if has("gui_running")
     set transparency=10
