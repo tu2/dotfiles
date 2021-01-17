@@ -28,4 +28,5 @@ set smarttab
 set encoding=utf-8
 
 " Set colour scheme
+" blue, delek, desert, evening
 colorscheme darkblue 
