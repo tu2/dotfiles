@@ -28,9 +28,4 @@ set smarttab
 set encoding=utf-8
 
 " Set colour scheme
-if has("gui_running")
-    set transparency=10
-    colorscheme desert
-else
-    colorscheme darkblue
-endif 
+colorscheme darkblue 
