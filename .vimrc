@@ -1,3 +1,5 @@
+" Interesting resource -> https://rgz.ee/openbsd/vimrc
+
 " Use vim setings rather then vi
 set nocompatible
 
