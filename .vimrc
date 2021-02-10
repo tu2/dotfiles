@@ -1,5 +1,4 @@
 " Interesting resource -> https://rgz.ee/openbsd/vimrc
-" Some of this settings don't work in OpenBSD or Linux
 
 " Use vim setings rather then vi
 set nocompatible
