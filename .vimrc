@@ -1,5 +1,5 @@
 " Interesting resource -> https://rgz.ee/openbsd/vimrc
-
+0x7777
 " Use vim setings rather then vi
 set nocompatible
 
