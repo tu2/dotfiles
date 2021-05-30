@@ -1,5 +1,5 @@
 " Interesting resource -> https://rgz.ee/openbsd/vimrc
-" 0x11, 0x22
+" 0x11, 0x22, 0x33
 " Use vim setings rather then vi
 set nocompatible
 
