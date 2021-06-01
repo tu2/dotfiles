@@ -1,5 +1,5 @@
 " Interesting resource -> https://rgz.ee/openbsd/vimrc
-" hex: 0x112,
+" hex: 0x112, 0x334
 " Use UTF-8
 set encoding=utf-8
 
