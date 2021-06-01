@@ -1,5 +1,8 @@
 " Interesting resource -> https://rgz.ee/openbsd/vimrc
 
+" Use UTF-8
+set encoding=utf-8
+
 " Use vim setings rather then vi
 set nocompatible
 
@@ -25,9 +28,6 @@ set shiftwidth=4
 set tabstop=4
 set expandtab
 set smarttab
-
-" Use UTF-8
-set encoding=utf-8
 
 " Set colour scheme
 " blue, delek, desert, evening, morning
