@@ -1,5 +1,5 @@
 " Interesting resource -> https://rgz.ee/openbsd/vimrc
-" to do: select theme
+" to do: select theme, select font
 " Use UTF-8
 set encoding=utf-8
 
