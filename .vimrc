@@ -1,5 +1,12 @@
 " Interesting resource -> https://rgz.ee/openbsd/vimrc
 
+" 0x1p+1   -> 2.0
+"
+"
+"
+"
+"
+
 " Use UTF-8
 set encoding=utf-8
 
