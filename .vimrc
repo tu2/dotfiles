@@ -1,7 +1,7 @@
 " Interesting resource -> https://rgz.ee/openbsd/vimrc
 
 " 0x1p+1   -> 2.0
-"
+" 0x1p+8   -> 256.0
 "
 "
 "
