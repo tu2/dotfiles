@@ -1,8 +1,8 @@
 " Interesting resource -> https://rgz.ee/openbsd/vimrc
-" colours: GREEN "\e[0;92m" "\x1b[32m"
+" GREEN "\e[0;92m" "\x1b[32m"
 "
-"
-"
+" RED "\x1b[31m" "\e[0;91m"
+" 
 "
 
 " Use UTF-8
