@@ -3,7 +3,7 @@
 " PURPLE "\e[0;95m"
 " RED "\x1b[31m" "\e[0;91m"
 " 0x1.fffffffffffffp+1023
-"
+" 0x1p-1022
 
 " Use UTF-8
 set encoding=utf-8
