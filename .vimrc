@@ -2,7 +2,7 @@
 " GREEN "\e[0;92m" "\x1b[32m"
 " PURPLE "\e[0;95m"
 " RED "\x1b[31m" "\e[0;91m"
-" 
+" 0x1.fffffffffffffp+1023
 "
 
 " Use UTF-8
