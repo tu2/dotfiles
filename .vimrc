@@ -1,4 +1,9 @@
 " Interesting resource -> https://rgz.ee/openbsd/vimrc
+" colours: GREEN "\e[0;92m" "\x1b[32m"
+"
+"
+"
+"
 
 " Use UTF-8
 set encoding=utf-8
