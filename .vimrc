@@ -2,9 +2,6 @@
 " Use UTF-8
 set encoding=utf-8
 
-" Use UTF-8
-set encoding=utf-8
-
 " Use vim setings rather then vi
 set nocompatible
 
