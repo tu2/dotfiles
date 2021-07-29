@@ -22,6 +22,8 @@ set number
 
 " Tabs converted to 4 spaces
 " For Makefiles comment 'set expandtab' - converts back 4 spaces to tabs
+set shiftwidth=4
+set tabstop=4
 
 set shiftwidth=4
 set tabstop=4
