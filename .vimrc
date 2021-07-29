@@ -27,12 +27,6 @@ set tabstop=4
 set expandtab
 set smarttab
 
-set shiftwidth=4
-set tabstop=4
-set expandtab
-set smarttab
-colorscheme darkblue 
-
 " Set colour scheme
 " blue, delek, desert, evening, morning
 colorscheme darkblue 
