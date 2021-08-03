@@ -1,4 +1,4 @@
-set encoding=utf-8
+
 " Interesting resource -> https://rgz.ee/openbsd/vimrc
 " Use UTF-8
 set encoding=utf-8
