@@ -28,6 +28,6 @@ set tabstop=4
 set expandtab
 set smarttab
 
-" Set colour scheme
+" Set colour scheme -> :colorscheme + space + tab
 " blue, default, delek, desert, evening, morning, industry, koehler, murphy, pablo
 colorscheme darkblue 
