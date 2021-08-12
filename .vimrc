@@ -29,5 +29,5 @@ set expandtab
 set smarttab
 
 " Set colour scheme
-" blue, delek, desert, evening, morning, industry,koehler
+" blue, default, delek, desert, evening, morning, industry, koehler, murphy
 colorscheme darkblue 
