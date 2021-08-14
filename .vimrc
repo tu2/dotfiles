@@ -1,5 +1,5 @@
 
-" Interesting resource -> https://rgz.ee/openbsd/vimrc
+" Interesting resource (Roman Zolotarev) -> https://rgz.ee/openbsd/vimrc
 " Use UTF-8
 set encoding=utf-8
 
