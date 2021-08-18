@@ -9,5 +9,5 @@ Vim plug-in for semantic code completion:
 * **Sources**
 
     * [Tmux](https://tmux.github.io/)
-    * [Vim](http://www.vim.org/)
+    * [Vim](https://github.com/vim/vim)
 
