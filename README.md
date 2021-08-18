@@ -3,11 +3,13 @@
 Simple config files.
 
 Vim plug-in for semantic code completion:
-   * [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)
-   * [deoplete](https://github.com/Shougo/deoplete.nvim)
 
-* **Sources**
+* [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)
+* [deoplete](https://github.com/Shougo/deoplete.nvim)
 
-    * [Tmux](https://tmux.github.io/)
-    * [Vim](https://github.com/vim/vim)
+
+**Sources**
+
+* [Tmux](https://tmux.github.io/)
+* [Vim](https://github.com/vim/vim)
 
