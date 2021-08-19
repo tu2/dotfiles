@@ -29,5 +29,5 @@ set expandtab
 set smarttab
 
 " Set colour scheme -> :colorscheme + space + tab
-" blue, default, delek, desert, evening, morning, industry, koehler, murphy, pablo, peachpuff
+" blue, default, delek, desert, evening, morning, industry, koehler, murphy, pablo, peachpuff, elford
 colorscheme darkblue 
