@@ -1,4 +1,4 @@
-
+" Source code: https://github.com/vim/vim
 " Interesting resource (Roman Zolotarev) -> https://rgz.ee/openbsd/vimrc
 " Use UTF-8
 set encoding=utf-8
