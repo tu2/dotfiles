@@ -9,7 +9,7 @@ set nocompatible
 
 " Enable syntax highlighting
 syntax enable
-
+syntax enable
 " Automatically indent
 set smartindent
 
