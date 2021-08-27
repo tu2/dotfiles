@@ -24,10 +24,10 @@ set number
 
 " Tabs converted to 4 spaces
 " For Makefiles comment 'set expandtab' - converts back 4 spaces to tabs
-" set shiftwidth=4
-" set tabstop=4
-" set expandtab
-" set smarttab
+set shiftwidth=4
+set tabstop=4
+set expandtab
+set smarttab
 
 " Set colour scheme -> :colorscheme + space + tab
 " blue, darkblue, default, delek, desert, elflord, evening, industry, koehler, morning, murphy, pablo, peachpuff, ron, shine
