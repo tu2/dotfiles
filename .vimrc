@@ -31,4 +31,4 @@ set smarttab
 
 " Set colour scheme -> :colorscheme + space + tab
 " blue, darkblue, default, delek, desert, elflord, evening, industry, koehler, morning, murphy, pablo, peachpuff, ron, shine
-colorscheme desert
+colorscheme elford
