@@ -1,5 +1,6 @@
 " Source code: https://github.com/vim/vim
 " Interesting resource (Roman Zolotarev) -> https://rgz.ee/openbsd/vimrc
+" add mouse functionality?
 
 " Use UTF-8
 set encoding=utf-8
