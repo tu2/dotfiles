@@ -20,7 +20,7 @@ set ruler
 set laststatus=2
 
 " Show line numbers
-" set number
+set number
 
 " Tabs converted to 4 spaces
 " For Makefiles comment 'set expandtab' - converts back 4 spaces to tabs
