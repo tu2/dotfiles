@@ -8,7 +8,7 @@ set encoding=utf-8
 set nocompatible
 
 " Enable syntax highlighting
-syntax enable
+
 
 " Automatically indent
 set smartindent
