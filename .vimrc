@@ -34,6 +34,11 @@ set smarttab
 "set nowritebackup
 "set noswapfile
 
+" Complete
+"set pumheight=10
+"set wildmenu
+"set isfname-==
+"set complete-=t
 
 
 " Set colour scheme -> :colorscheme + space + tab
