@@ -30,9 +30,9 @@ set expandtab
 set smarttab
 
 " Backup/swap
-set nobackup
-set nowritebackup
-set noswapfile
+"set nobackup
+"set nowritebackup
+"set noswapfile
 
 
 
