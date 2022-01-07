@@ -15,4 +15,4 @@ Vim plug-in for semantic code completion:
 
 **Tutorials**
 
-* 
+* [Steve Losh - Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/)
