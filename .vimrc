@@ -16,7 +16,7 @@ set smartindent
 " Show file stats
 set ruler
 
-" Status line
+" Show status line
 set laststatus=2
 
 " Show line numbers
